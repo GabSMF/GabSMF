@@ -8,8 +8,4 @@ I'm Gabriel da Silva, a Computer Engineering Student at PUC-Rio
 - 📁 I have a web portfolio here: [Portfolio](https://www.gabrielsmf.com.br/#/)
 - 📫 Reach me by email: [gabriel.silvamf@aluno.puc-rio.br](mailto:gabriel.silvamf@aluno.puc-rio.br)
 - or by my LinkedIn: [Gabriel da Silva](https://www.linkedin.com/in/gabrielsmf/?locale=en_US)
-   
-Following is my github stats
-  
-[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=GabSMF)](https://github.com/gabr1el-silva/github-readme-stats)  
   
