@@ -3,7 +3,7 @@
 ### Hi, welcome to my profile 👋
 I'm Gabriel da Silva, a Computer Engineering Student at PUC-Rio
 
-- 🏫 I’m currently studying about Machine Learning and NLP.
+- 🏫 I’m currently studying about Machine Learning, NLP and Ontologies.
 - 💪 I spend my free time coding, listening to music, and working out.
 - 📁 I have a web portfolio here: [Portfolio](https://www.gabrielsmf.com.br/#/)
 - 📫 Reach me by email: [gabriel.silvamf@aluno.puc-rio.br](mailto:gabriel.silvamf@aluno.puc-rio.br)
