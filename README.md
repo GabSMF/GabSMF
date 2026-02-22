@@ -1,3 +1,5 @@
+![Gabriel's Space Shooter Game](game.gif)
+
 ### Hi, welcome to my profile 👋
 I'm Gabriel da Silva, a Computer Engineering Student at PUC-Rio
 
